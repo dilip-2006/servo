@@ -67,9 +67,18 @@ ros2 launch servo servo_gui.launch.py
 
 ## 👤 Author
 
-**Dilip Kumar S**  
-📧 [letsmaildilip@gmail.com](mailto:letsmaildilip@gmail.com)  
-🔗 GitHub: [dilip-2006](https://github.com/dilip-2006)
+<div align="center">
 
-> If you find this concept useful or it helped you in your robotics journey,  
-> ⭐ **a star on the repository would be greatly appreciated!**
+### **Dilip Kumar S**
+*Robotics Developer*
+
+[![Email](https://img.shields.io/badge/Email-letsmaildilip%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:letsmaildilip@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-dilip--2006-black?style=for-the-badge&logo=github)](https://github.com/dilip-2006)
+
+---
+
+*If this project helps or inspires your robotics journey, a ⭐ on the repository would mean a lot!*
+
+**[⭐ Star this Repository](https://github.com/dilip-2006/gesture_mobile_robot)**
+
+</div>
