@@ -1,0 +1,8 @@
+build/
+install/
+log/
+__pycache__/
+*.pyc
+*.egg-info/
+test_ascii.py
+launch/procedure.txt
